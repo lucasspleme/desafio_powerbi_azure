@@ -4,4 +4,4 @@
 atividade*
 
 Print da mensagem exibida:
-<img src="/assets/img/arquivo.JPG">
+<img src="/assets/arquivo.JPG">
