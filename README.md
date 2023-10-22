@@ -4,4 +4,4 @@
 atividade*
 
 Print da mensagem exibida:
-<img src="/assets/arquivo.JPG">
+<img src="desafio_powerbi_azure/assets/arquivo.JPG">
